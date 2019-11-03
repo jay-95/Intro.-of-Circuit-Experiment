@@ -1,0 +1,17 @@
+module BCD_to_7_Segment_Decoder
+  (output reg [0:6] sdout,
+   input [0:3] D);
+   always@(D)
+   case(D)
+     4'b0000: sdout=7'b0000001;
+     4'b1000: sdout=7'b1001111;
+     4'b0100: sdout=7'b0010010;
+     4'b1100: sdout=7'b0000110;
+     4'b0010: sdout=7'b1001100;
+     4'b1010: sdout=7'b0100100;
+     4'b0110: sdout=7'b1100000;
+     4'b1110: sdout=7'b0001111;
+     4'b0001: sdout=7'b0000000;
+     4'b1001: sdout=7'b0001100;
+   endcase
+ endmodule

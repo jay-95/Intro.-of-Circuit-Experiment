@@ -1,0 +1,15 @@
+C:/altera/13.1/Encoder_4X2/tb_Encoder_4X2.v {1 {vlog -work work C:/altera/13.1/Encoder_4X2/tb_Encoder_4X2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Encoder_4X2
+
+Top level modules:
+	tb_Encoder_4X2
+
+} {} {}} C:/altera/13.1/Encoder_4X2/Encoder_4X2.v {1 {vlog -work work C:/altera/13.1/Encoder_4X2/Encoder_4X2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Encoder_4X2
+
+Top level modules:
+	Encoder_4X2
+
+} {} {}}

@@ -1,0 +1,25 @@
+C:/altera/13.1/segment/BCD_to_7_Segment_Decoder.v {1 {vlog -work work {C:\altera\13.1\segment\BCD_to_7_Segment_Decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BCD_to_7_Segment_Decoder
+
+Top level modules:
+	BCD_to_7_Segment_Decoder
+
+} {} {}} C:/altera/13.1/segment/Decoder_2X4.v {1 {vlog -work work {C:\altera\13.1\segment\Decoder_2X4.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder_2X4
+
+Top level modules:
+	Decoder_2X4
+
+} {} {}} C:/altera/13.1/segment/Segment_str.v {0 {vlog -work work C:/altera/13.1/segment/Segment_str.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Segment_str
+** Error: C:/altera/13.1/segment/Segment_str.v(2): (vlog-2730) Undefined variable: 'D'.
+
+** Error: C:/altera/13.1/segment/Segment_str.v(2): near "[": syntax error, unexpected '[', expecting ')'
+** Error: C:/altera/13.1/segment/Segment_str.v(1): Identifier must be declared with a port mode: sdout.
+** Error: C:/altera/13.1/segment/Segment_str.v(1): Identifier must be declared with a port mode: A.
+** Error: C:/altera/13.1/segment/Segment_str.v(1): Identifier must be declared with a port mode: B.
+
+} {4.0 5.0 6.0 10.0} {}}

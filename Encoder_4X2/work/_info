@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\ripple counter and segment
+vEncoder_4X2
+Z1 !s100 PemU0kL4IF[YlXgzTC[Ae2
+Z2 IWcIcYZf=WhkeQNba1YeS32
+Z3 VVEJS05D3L@gR66aBEP]dH0
+Z4 dC:\altera\13.1\Encoder_4X2
+Z5 w1417633435
+Z6 8C:/altera/13.1/Encoder_4X2/Encoder_4X2.v
+Z7 FC:/altera/13.1/Encoder_4X2/Encoder_4X2.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/altera/13.1/Encoder_4X2/Encoder_4X2.v|
+Z10 o-work work -O0
+Z11 n@encoder_4@x2
+!i10b 1
+!s85 0
+Z12 !s108 1417637738.766000
+Z13 !s107 C:/altera/13.1/Encoder_4X2/Encoder_4X2.v|
+!s101 -O0
+vtb_Encoder_4X2
+!i10b 1
+Z14 !s100 L?gEhTnVlRbi_2j:EMbzP0
+Z15 ITcb>8[2dcODghgP5Rcn?D3
+Z16 Voi7H:RQJ5_nYXBffJXc0M1
+R4
+Z17 w1417633843
+Z18 8C:/altera/13.1/Encoder_4X2/tb_Encoder_4X2.v
+Z19 FC:/altera/13.1/Encoder_4X2/tb_Encoder_4X2.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1417637738.856000
+!s107 C:/altera/13.1/Encoder_4X2/tb_Encoder_4X2.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/altera/13.1/Encoder_4X2/tb_Encoder_4X2.v|
+!s101 -O0
+R10
+Z21 ntb_@encoder_4@x2

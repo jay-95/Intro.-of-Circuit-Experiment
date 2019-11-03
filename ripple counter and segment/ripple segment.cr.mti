@@ -1,0 +1,23 @@
+{C:/altera/13.1/ripple counter and segment/tb_ripple.v} {1 {vlog -work work {C:/altera/13.1/ripple counter and segment/tb_ripple.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_ripple
+
+Top level modules:
+	tb_ripple
+
+} {} {}} {C:/altera/13.1/ripple counter and segment/ripple_counter_str.v} {1 {vlog -work work {C:/altera/13.1/ripple counter and segment/ripple_counter_str.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module df_reset
+-- Compiling module ripple_counter_str
+
+Top level modules:
+	ripple_counter_str
+
+} {} {}} {C:/altera/13.1/ripple counter and segment/BCD_to_7_Segment_Decoder.v} {1 {vlog -work work {C:/altera/13.1/ripple counter and segment/BCD_to_7_Segment_Decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BCD_to_7_Segment_Decoder
+
+Top level modules:
+	BCD_to_7_Segment_Decoder
+
+} {} {}}

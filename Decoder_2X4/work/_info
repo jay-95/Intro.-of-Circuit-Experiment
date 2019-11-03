@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\dd
+vDecoder_2X4
+Z1 !s100 Xln=^]2dm1ig62RlCnD;X2
+Z2 Ic5Y7hAH?ok:RYZ>_kCQk:2
+Z3 VNDP?h=cYMBEH=fm:j5LDV2
+Z4 dC:\altera\13.1\Decoder_2X4
+Z5 w1417077306
+Z6 8C:/altera/13.1/Decoder_2X4/Decoder_2X4.v
+Z7 FC:/altera/13.1/Decoder_2X4/Decoder_2X4.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/altera/13.1/Decoder_2X4/Decoder_2X4.v|
+Z10 o-work work -O0
+Z11 n@decoder_2@x4
+!i10b 1
+!s85 0
+Z12 !s108 1417512020.068000
+Z13 !s107 C:/altera/13.1/Decoder_2X4/Decoder_2X4.v|
+!s101 -O0
+vtb_Decoder_2X4
+!i10b 1
+Z14 !s100 `dcLOmh]d<=_H168;ho_30
+Z15 Ik_SHc2^S^Vl=N9^BZJQPN2
+Z16 Vm9KTFjdmzAzAgCQzl1S[C3
+R4
+Z17 w1417079442
+Z18 8C:/altera/13.1/Decoder_2X4/tb_Decoder_2X4.v
+Z19 FC:/altera/13.1/Decoder_2X4/tb_Decoder_2X4.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1417512020.218000
+!s107 C:/altera/13.1/Decoder_2X4/tb_Decoder_2X4.v|
+Z20 !s90 -reportprogress|300|-work|work|C:/altera/13.1/Decoder_2X4/tb_Decoder_2X4.v|
+!s101 -O0
+R10
+Z21 ntb_@decoder_2@x4

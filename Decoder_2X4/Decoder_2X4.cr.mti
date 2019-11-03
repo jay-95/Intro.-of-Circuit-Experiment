@@ -1,0 +1,15 @@
+C:/altera/13.1/Decoder_2X4/tb_Decoder_2X4.v {1 {vlog -work work C:/altera/13.1/Decoder_2X4/tb_Decoder_2X4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Decoder_2X4
+
+Top level modules:
+	tb_Decoder_2X4
+
+} {} {}} C:/altera/13.1/Decoder_2X4/Decoder_2X4.v {1 {vlog -work work C:/altera/13.1/Decoder_2X4/Decoder_2X4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder_2X4
+
+Top level modules:
+	Decoder_2X4
+
+} {} {}}

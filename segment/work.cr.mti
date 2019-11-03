@@ -1,0 +1,22 @@
+C:/altera/13.1/segment/BCD_to_7_Segment_Decoder.v {1 {vlog -work work {C:\altera\13.1\segment\BCD_to_7_Segment_Decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BCD_to_7_Segment_Decoder_behav
+
+Top level modules:
+	BCD_to_7_Segment_Decoder_behav
+
+} {} {}} C:/altera/13.1/segment/tb_Segment.v {1 {vlog -work work {C:\altera\13.1\segment\tb_Segment.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_Segment
+
+Top level modules:
+	tb_Segment
+
+} {} {}} C:/altera/13.1/segment/Decoder_2X4.v {1 {vlog -work work {C:\altera\13.1\segment\Decoder_2X4.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Decoder_2X4
+
+Top level modules:
+	Decoder_2X4
+
+} {} {}}
